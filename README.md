@@ -97,7 +97,7 @@ cp .env.example .env
 
 # 5. Run the app
 streamlit run app.py
-
+```
 
 Open your browser and go to: http://localhost:8501
 
