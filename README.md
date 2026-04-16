@@ -78,6 +78,8 @@ Topic Input → Content Generation → Persona Segmentation → A/B Assignment �
 
 ## ▶️ Instructions to Run Locally
 
+> The app can run fully in mock mode without API keys.
+
 ```bash
 pip install -r requirements.txt
 cp .env.example .env
