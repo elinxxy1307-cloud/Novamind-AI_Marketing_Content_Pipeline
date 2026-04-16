@@ -104,4 +104,5 @@ Open your browser and go to: http://localhost:8501
 If you want to use real APIs, add the following to your .env file:
 
 OPENAI_API_KEY=your_key_here
+
 HUBSPOT_ACCESS_TOKEN=your_token_here
